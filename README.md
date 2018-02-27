@@ -1,7 +1,5 @@
 # Babelouest
 
-Nicolas Mora <mail@babelouest.org>
-
 I prefer when I use self-hosted services, so I can trust them since I know better what they do and how they do it. Therefore when a self-hosted service doesn't exist or doesn't meet my needs, or I feel like I want to do it, I build micro services and web applications for my own needs.
 
 Eventually, a simple Raspberry PI can be the server hosting all the following programs.
@@ -25,3 +23,5 @@ Here are the main libraries developped to help building the programs above.
 
 ## Misc
 - [Huddersfield](https://github.com/babelouest/huddersfield): Project packages builder and publisher
+
+Nicolas Mora <mail@babelouest.org>
