@@ -2,10 +2,10 @@
 
 I prefer when I use self-hosted services, so I can trust them since I know better what they do and how they do it. Therefore when a self-hosted service doesn't exist or doesn't meet my needs, or I feel like I want to do it, I build micro services and web applications for my own needs.
 
-Eventually, a simple Raspberry PI can host all of the following programs.
+A simple Raspberry PI can host all of the following applications.
 
 ## Pograms
-- [Glewlwyd](https://babelouest.github.io/glewlwyd): OAuth2 authentication server providing Json Web Tokens
+- [Glewlwyd](https://babelouest.github.io/glewlwyd): Single-Sign-On Server providing OAuth2 and OpenID Connect services
 - [Taliesin](https://babelouest.github.io/taliesin): Lightweight audio streaming server, to listen to all of your music everywhere
 - [Hutch](https://babelouest.github.io/hutch): Online password and secret locker
 - [Angharad](https://babelouest.github.io/angharad): House automation system
@@ -22,6 +22,6 @@ Here are the main libraries developped to help building the programs above.
 - [Orcania](https://github.com/babelouest/orcania): Potluck with different functions for different purposes that can be shared among C programs
 
 ## Misc
-- [Huddersfield](https://github.com/babelouest/huddersfield): Project packages builder and publisher
+- [Huddersfield](https://github.com/babelouest/huddersfield): Project packages builder, tester, and publisher
 
 Nicolas Mora <mail@babelouest.org>
