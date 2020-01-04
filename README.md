@@ -4,7 +4,7 @@ I prefer when I use self-hosted services, so I can trust them since I know bette
 
 A simple Raspberry PI can host all of the following applications.
 
-## Pograms
+## Programs
 - [Glewlwyd](https://babelouest.github.io/glewlwyd): Single-Sign-On Server providing OAuth2 and OpenID Connect services
 - [Taliesin](https://babelouest.github.io/taliesin): Lightweight audio streaming server, to listen to all of your music everywhere
 - [Hutch](https://babelouest.github.io/hutch): Online password and secret locker
