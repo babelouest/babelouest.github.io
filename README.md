@@ -1,6 +1,8 @@
 # Babelouest
 
-I prefer when I use self-hosted services, so I can trust them since I know better what they do and how they do it. Therefore when a self-hosted service doesn't exist or doesn't meet my needs, or I feel like I want to do it, I build micro services and web applications for my own needs.
+- Self-hosting services is good.
+- Self-hosting services with a tiny devices such as Raspberry Pi or Odroid is better
+- Self-hosting services that use small amounts of resources is cool!
 
 A simple Raspberry PI can host all of the following applications.
 
@@ -10,18 +12,20 @@ A simple Raspberry PI can host all of the following applications.
 - [Hutch](https://babelouest.github.io/hutch): Online password and secret locker
 - [Angharad](https://babelouest.github.io/angharad): House automation system
 
-## Arduino project
-- [Taulas](https://github.com/babelouest/taulas): Arduino source files for Angharad system devices
-
-Here are the main libraries developped to help building the programs above.
+Libraries developped to help building the programs above.
 
 ## Libraries
 - [Ulfius](https://babelouest.github.io/ulfius/): HTTP Framework for REST API in C, using JSON or not, with websockets or not, with streaming data or not
 - [Hoel](https://babelouest.github.io/hoel): C Database abstraction library with json based language 
-- [Yder](https://github.com/babelouest/yder): Logging library for C applications
-- [Orcania](https://github.com/babelouest/orcania): Potluck with different functions for different purposes that can be shared among C programs
+- [Rhonabwy](https://babelouest.github.io/rhonabwy/): Create, modify, parse, verify or export JSON Web Keys (JWK), JSON Web Key Sets (JWKS) and JSON Web Signatures (JWS) in C
+- [Iddawc](https://babelouest.github.io/iddawc/): Oauth2/OIDC Client library
+- [Yder](https://babelouest.github.io/yder/): Logging library for C applications
+- [Orcania](https://babelouest.github.io/orcania/): Potluck with different functions for different purposes that can be shared among C programs
+
+## Arduino project
+- [Taulas](https://github.com/babelouest/taulas): Arduino source files for Angharad system devices
 
 ## Misc
-- [Huddersfield](https://github.com/babelouest/huddersfield): Project packages builder, tester, and publisher
+- [Huddersfield](https://github.com/babelouest/huddersfield): Project packages builder, tester, and publisher, GitHub statistic viewer.
 
 Nicolas Mora <mail@babelouest.org>
