@@ -28,4 +28,5 @@ Libraries developped to help building the programs above.
 ## Misc
 - [Huddersfield](https://github.com/babelouest/huddersfield): Project packages builder, tester, and publisher, GitHub statistic viewer.
 
-Nicolas Mora <mail@babelouest.org>
+Nicolas Mora <github@babelouest.org>
+OpenPGP fingerprint: 8405 B02F CC28 EF97 44C8  F253 FE82 1394 40BD 22B9
